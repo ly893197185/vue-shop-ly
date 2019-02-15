@@ -29,8 +29,8 @@ export default {
   data() {
     return {
       loginForm: {
-        username: '',
-        password: ''
+        username: 'admin',
+        password: '123456'
       },
       // 给登陆表单域设置检验规则
       loginFormRules: {
